@@ -1,0 +1,1 @@
+This repository contains the code for replicating the econometrics and times series models presented in the paper "Five Facts about the UIP Premium (Sebnem Kalemli-Ozcan & Liliana Varela)". The implementation follows the methodologies described in the paper to ensure accurate reproduction of the results.
